@@ -1,5 +1,17 @@
 # 🌊 (👋, right?)
 
+## Highlights
+
+### [OPR](https://github.com/jonnyowenpowell/opr/)
+
+**O**pen **PR**, a common task during development. This repository contains a tool designed to make it easier! Think turbocharged GitHub PR templates, straight from the command line, with integrations. Open to suggestions for improvements, but I built this for me, so I can't promise to act on everything.
+
+### [nix](https://github.com/NixOS/nix)
+
+This repository contains my _nix flake_ for my personal MacOS development environment. Feel free to copy any snippets you find useful!
+
+_nix??_: Google it, it'll change your life.
+
 ## Repository Directory
 
 | Language | Repositories |
