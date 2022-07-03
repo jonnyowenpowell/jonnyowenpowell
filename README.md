@@ -13,6 +13,6 @@
 | [PHP](https://www.php.net/) | [restfulwidgets](https://github.com/jonnyowenpowell/restfulwidgets/) |
 
 <details>
-<summary>`jonnyowenpowell-zz`?</summary>
-Who is `jonnyowenpowell-zz`? A previous me, who lost their 2FA key and backup codes! GitHub kindly suffixed the old account `-zz` to make way for this one.
+<summary><i>jonnyowenpowell-zz?</i></summary>
+Who is <a href="https://github.com/jonnyowenpowell-zz"><i>jonnyowenpowell-zz</i></a>? A previous me, who lost their 2FA key and backup codes! GitHub kindly suffixed the old account `-zz` to make way for this one.
 </details>
