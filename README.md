@@ -6,6 +6,10 @@
 
 **O**pen **PR**, a common task during development. This repository contains a tool designed to make it easier! Think turbocharged GitHub PR templates, straight from the command line, with integrations. Open to suggestions for improvements, but I built this for me, so I can't promise to act on everything.
 
+### [spea2](https://github.com/jonnyowenpowell/spea2/)
+
+A fairly optimised implementation of [_SPEA2_](https://www.semanticscholar.org/paper/SPEA2%3A-Improving-the-strength-pareto-evolutionary-Zitzler-Laumanns/b13724cb54ae4171916f3f969d304b9e9752a57f) in Python/C. _SPEA2_ is an evolutionary algorithm which optimises a population for multiple objectives at once, aiming to find or get close to the Pareto front for the set of objectives.
+
 ### [nix](https://github.com/NixOS/nix)
 
 This repository contains my _nix flake_ for my personal MacOS development environment. Feel free to copy any snippets you find useful!
